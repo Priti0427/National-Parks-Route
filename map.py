@@ -219,7 +219,7 @@ if __name__ == "__main__":
     states_file = os.path.join(repo_root, 'data', 'states_master.csv')
     parks_file = os.path.join(repo_root, 'data', 'parks_subset.csv')
     home_state = 'PA'
-    api_key = 'AIzaSyBsZE5PsKrO7cQP1vUILx4j9HMCdPK3x_g'
+    api_key = ''
 
 
     route_map = plot_route_on_map(parks_file, states_file, home_state, api_key)
