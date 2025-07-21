@@ -1,0 +1,22 @@
+# API
+
+flask
+
+# Deployment
+# gunicorn
+streamlit
+
+# Core Python packages
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+folium
+googlemaps
+
+# Jupyter & Notebook support
+jupyter
+ipykernel
