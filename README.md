@@ -15,7 +15,7 @@ This tool could serve use cases in delivery services, travel planning, field tec
 
 - Clean and modular backend structure
 - Basic frontend interface or API endpoint
-- Input support: manual entry or uploaded data (e.g., CSV, JSON)
+- Input support: uploaded data using National park official website API(e.g., CSV, JSON)
 - Route optimization algorithm (Nearest Neighbour Algorithm)
 - Performance benchmarks and testing
 
