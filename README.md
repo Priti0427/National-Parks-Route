@@ -67,7 +67,7 @@ route-optimization-mvp/
 
 ## 📝 Notes
 
-- Algorithm selection and trade-offs will be discussed as a group.
+- Algorithm selection and trade-offs were discussed as a group.
 - Aim to build something that *works*, then iterate and optimize.
 - Keep code modular and readable for team collaboration.
 
@@ -77,4 +77,4 @@ Project coordination through [GitHub Issues](https://github.com/) and Discord.
 
 ---
 
-_This is a temporary README. Will be updated as the project progresses._
+
